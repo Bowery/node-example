@@ -1,4 +1,5 @@
 # Example Node.js / Express
+![Bowery](http://bowery-blog.s3.amazonaws.com/logo-256.png "Bowery")
 
 Sample Node.js / Express app for use with Bowery Desktop version 3.
 
